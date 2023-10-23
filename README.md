@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Imanol Isasa
-- 📚 I'm studying a MSc in Biomedical Technologies (Mondragon Unibertsitatea)
-- 💻 I'm currently working on my master's thesis at Vicomtech
+- 📚 I studied Biomedical Engineering and I have a Master's degree in Biomedical Technologies [MGEP](https://www.mondragon.edu/en/home)
+- 💻 I'm currently working at [Vicomtech](https://www.vicomtech.org/es) as a Research Assistant
 - 👀 I’m interested in signal processing, medical imaging, and data science
-- 🌱 I’m currently learning about Synthetic Data Generation (SDG) and Artificial Intelligence (AI)
+- 🌱 I’m currently learning about Synthetic Data Generation (SDG) in federated environments
 - 📫 You can reach me at www.linkedin.com/in/iisasar
 
 <!---
