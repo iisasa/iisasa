@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Imanol Isasa
 - 📚 I studied Biomedical Engineering and I have a Master's degree in Biomedical Technologies [MGEP](https://www.mondragon.edu/en/home)
-- 💻 I'm currently working at [Vicomtech](https://www.vicomtech.org/es) as a Research Assistant
+- 💻 I'm currently working at [Vicomtech](https://www.vicomtech.org/es) as a Researcher
 - 👀 I’m interested in signal processing, medical imaging, and data science
-- 🌱 I’m currently learning about Synthetic Data Generation (SDG) in federated environments
+- 🌱 I’m currently working on my PhD related to synthetic data and federated learning
 - 📫 You can reach me at www.linkedin.com/in/iisasar
 
 <!---
